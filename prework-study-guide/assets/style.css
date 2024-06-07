@@ -33,5 +33,9 @@ ul {
     width: 80%;
     margin: 40px auto;
     border: 5px solid blue;
+<<<<<<< HEAD
     box-shadow: 5px 10px #6f8da0;
+=======
+    box-shadow: 5px 10px #95c6da;
+>>>>>>> 9408ec6bc3ab61d1240706bd660f26865f108637
   }
